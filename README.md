@@ -1,1 +1,1 @@
-# Business-Analytics
+# BusinessAnalytics
