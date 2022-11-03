@@ -6,7 +6,7 @@ If you load these files in mybinder.org, the following packages will already be 
 pandas/numpy
 matplotlib
 bs4
-emoji
+opencv-python
 
 Hence, it may take a few minutes for the page to load while the above packages are updated.
 
