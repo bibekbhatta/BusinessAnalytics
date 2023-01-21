@@ -3,10 +3,10 @@ This repository contains basic examples for Python Programming Language. These e
 
 If you load these files in mybinder.org, the following packages will already be included in the environment:
 
-pandas/numpy
-matplotlib
-bs4
-opencv-python
+pandas/numpy  
+matplotlib  
+bs4  
+opencv-python  
 
 Hence, it may take a few minutes for the page to load while the above packages are updated.
 
