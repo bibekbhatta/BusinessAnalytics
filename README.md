@@ -1,5 +1,5 @@
 # BusinessAnalytics
-This repository contains basic examples for Python Programming Language. These examples are aimed at beginners who want to learn Python programming language.
+This repository contains basic examples for Python Programming Language. These examples are aimed at beginners who want to learn Python programming language to explore structured and unstructured data.
 
 If you load these files in mybinder.org, the following packages will already be included in the environment:
 
