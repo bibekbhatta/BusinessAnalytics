@@ -19,7 +19,7 @@ You can simply **click on the below tab** to load the codes online in binder:
 
 For learning purpose, the files should be used in the following order:
 1. OpenFiles.ipynb : shows how to access various sources of data like csv, PDF, Word, image, json, Stata, webpage etc.
-2. Clean.ipynb : shows how to clean and pre-process raw data into something that can be used for further analysis
+2. Clean.ipynb : shows how to clean and pre-process raw data into something that can be used for further analyses
 3. Disc_Visualize.ipynb: shows how to produce descriptive statistics and also explores data visualization
 4. Predictive.ipynb : shows how to use logistic regression and explores basic machine learning techniques
 
