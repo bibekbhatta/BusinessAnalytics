@@ -11,7 +11,7 @@ opencv-python
 
 Hence, it may take a few minutes for the page to load while the above packages are updated.
 
-You can simply **click on the below tab** to load the codes in online in binder:
+You can simply **click on the below tab** to load the codes online in binder:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bibekbhatta/BusinessAnalytics/HEAD)
 
