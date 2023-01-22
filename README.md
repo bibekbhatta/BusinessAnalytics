@@ -1,6 +1,6 @@
 # BusinessAnalytics
 
-###This repository contains basic working examples to explore structured and unstructured data and/or big data using Python programming language.
+### This repository contains basic working examples to explore structured and unstructured data and/or big data using Python programming language.
 
 If you load these files in mybinder.org, the following packages will already be included in the environment:
 
