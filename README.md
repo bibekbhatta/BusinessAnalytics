@@ -6,6 +6,7 @@ If you load these files in mybinder.org, the following packages will already be 
 
 pandas/numpy  
 matplotlib  
+seaborn  
 bs4  
 opencv-python  
 
