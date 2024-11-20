@@ -1,1 +1,3 @@
 This folder contains files/folders for Assignment 3 (40%)
+Please follow the submission guidelines properly. 
+All codes should work on "as-is" basis when executed online.
