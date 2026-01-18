@@ -1,0 +1,2 @@
+this folder contains data related to John Snow's analysis of Cholera in London in the 1800. 
+the data is for educational purpose and the distance data may not be up to scale.
