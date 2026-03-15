@@ -16,7 +16,7 @@ You can simply **click on the below tab** to load the codes online in binder:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bibekbhatta/BusinessAnalytics/HEAD)
 
-***After you have clicked on the above banner***, it will take you to an online environment where you can run the codes that are provided in Jupyter notebooks. Within the  Jupyter notebook, you can start with the top most cell and press ***Shift+Enter*** to move down to the next cell.
+***After you have clicked on the above banner***, it will take you to an online environment where you can run the codes that are provided in Jupyter notebooks. Within the  Jupyter notebook, you can start from the top most cell and press ***Shift+Enter*** to move down to the next cell.
 
 
 
